@@ -1,0 +1,48 @@
+2024-10-13 15:01:58,608 - utils.data_provider - [1m[92mINFO[0m[0m - [1m{'Origin': 'Madrid (MAD)', 'Destiny': 'Barcelona (BCN)', 'Start_Date': '25/10/2024', 'End_Date': '26/10/2024', 'Adult': 3, 'Child': 2, 'Baby': 1}[0m
+2024-10-13 15:01:58,608 - utils.data_provider - [1m[92mINFO[0m[0m - [1m{'Origin': 'Barcelona (BCN)', 'Destiny': 'Madrid (MAD)', 'Start_Date': '01/11/2024', 'End_Date': '02/11/2024', 'Adult': 4, 'Child': 1, 'Baby': 2}[0m
+2024-10-13 15:01:58,608 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 15:01:58,608 - pages.base_page - [1m[92mINFO[0m[0m - [1mSTARTING ENTERING FLIGHDATA[0m
+2024-10-13 15:01:58,608 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 15:01:58,625 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('id', 'flight_origin1')[0m
+2024-10-13 15:01:58,868 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('id', 'flight_origin1')[0m
+2024-10-13 15:01:58,868 - pages.base_page - [1m[92mINFO[0m[0m - [1mMadrid (MAD)[0m
+2024-10-13 15:01:58,876 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_origin1')[0m
+2024-10-13 15:01:58,945 - pages.base_page - [1m[92mINFO[0m[0m - [1mText cleared for: ('id', 'flight_origin1')[0m
+2024-10-13 15:01:59,003 - pages.base_page - [1m[92mINFO[0m[0m - [1mText: Madrid (MAD) typed into element ('id', 'flight_origin1')[0m
+2024-10-13 15:01:59,012 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_origin1')[0m
+2024-10-13 15:01:59,015 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved value: Madrid (MAD) for ('id', 'flight_origin1')[0m
+2024-10-13 15:01:59,026 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('xpath', "//label[contains(.,'Destino')]")[0m
+2024-10-13 15:01:59,092 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('xpath', "//label[contains(.,'Destino')]")[0m
+2024-10-13 15:01:59,101 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_destiny1')[0m
+2024-10-13 15:01:59,126 - pages.base_page - [1m[92mINFO[0m[0m - [1mText cleared for: ('id', 'flight_destiny1')[0m
+2024-10-13 15:01:59,168 - pages.base_page - [1m[92mINFO[0m[0m - [1mText: Barcelona (BCN) typed into element ('id', 'flight_destiny1')[0m
+2024-10-13 15:01:59,180 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('xpath', "//label[contains(.,'Fecha ida')]")[0m
+2024-10-13 15:01:59,247 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('xpath', "//label[contains(.,'Fecha ida')]")[0m
+2024-10-13 15:01:59,315 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_round_date1')[0m
+2024-10-13 15:01:59,332 - pages.base_page - [1m[92mINFO[0m[0m - [1mText cleared for: ('id', 'flight_round_date1')[0m
+2024-10-13 15:01:59,427 - pages.base_page - [1m[92mINFO[0m[0m - [1mText: 25/10/2024 typed into element ('id', 'flight_round_date1')[0m
+2024-10-13 15:01:59,504 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('xpath', "//label[contains(.,'Fecha vuelta')]")[0m
+2024-10-13 15:01:59,592 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('xpath', "//label[contains(.,'Fecha vuelta')]")[0m
+2024-10-13 15:01:59,627 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_return_date1')[0m
+2024-10-13 15:01:59,642 - pages.base_page - [1m[92mINFO[0m[0m - [1mText cleared for: ('id', 'flight_return_date1')[0m
+2024-10-13 15:01:59,702 - pages.base_page - [1m[92mINFO[0m[0m - [1mText: 26/10/2024 typed into element ('id', 'flight_return_date1')[0m
+2024-10-13 15:01:59,716 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('id', 'flight_passengers1')[0m
+2024-10-13 15:01:59,768 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('id', 'flight_passengers1')[0m
+2024-10-13 15:01:59,768 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to clear passenger count[0m
+2024-10-13 15:02:00,306 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'adult1')[0m
+2024-10-13 15:02:00,312 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 1 for ('id', 'adult1')[0m
+2024-10-13 15:02:00,320 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'infants1')[0m
+2024-10-13 15:02:00,324 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 0 for ('id', 'infants1')[0m
+2024-10-13 15:02:00,333 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('xpath', "//span[@data-people-type='babies']")[0m
+2024-10-13 15:02:00,337 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 0 for ('xpath', "//span[@data-people-type='babies']")[0m
+2024-10-13 15:02:00,345 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('css selector', '.ibe-people-counter__list-item:nth-child(2) .ibe-people-counter__buttons-more')[0m
+2024-10-13 15:02:00,345 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to click 2 times on: ('css selector', '.ibe-people-counter__list-item:nth-child(2) .ibe-people-counter__buttons-more')[0m
+2024-10-13 15:02:00,451 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('xpath', "//*[@id='people-counter-1']/ul/li[5]/div[2]/button[2]")[0m
+2024-10-13 15:02:00,451 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to click 2 times on: ('xpath', "//*[@id='people-counter-1']/ul/li[5]/div[2]/button[2]")[0m
+2024-10-13 15:02:00,535 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('xpath', "//*[@id='people-counter-1']/ul/li[6]/div[2]/button[2]")[0m
+2024-10-13 15:02:00,536 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to click 1 times on: ('xpath', "//*[@id='people-counter-1']/ul/li[6]/div[2]/button[2]")[0m
+2024-10-13 15:02:00,573 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 15:02:00,573 - pages.base_page - [1m[92mINFO[0m[0m - [1mENDING ENTERING FLIGHDATA[0m
+2024-10-13 15:02:00,573 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 15:02:00,579 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'adult1')[0m
+2024-10-13 15:02:00,583 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 3 for ('id', 'adult1')[0m

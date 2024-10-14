@@ -1,0 +1,3 @@
+2024-10-13 14:57:46,721 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'onetrust-accept-btn-handler')[0m
+2024-10-13 14:57:46,732 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('id', 'onetrust-accept-btn-handler')[0m
+2024-10-13 14:57:46,955 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('id', 'onetrust-accept-btn-handler')[0m

@@ -1,0 +1,123 @@
+2024-10-13 14:57:47,128 - utils.data_provider - [1m[92mINFO[0m[0m - [1m{'Origin': 'Madrid (MAD)', 'Destiny': 'Barcelona (BCN)', 'Start_Date': '25/10/2024', 'End_Date': '26/10/2024', 'Adult': 3, 'Child': 2, 'Baby': 1}[0m
+2024-10-13 14:57:47,129 - utils.data_provider - [1m[92mINFO[0m[0m - [1m{'Origin': 'Barcelona (BCN)', 'Destiny': 'Madrid (MAD)', 'Start_Date': '01/11/2024', 'End_Date': '02/11/2024', 'Adult': 4, 'Child': 1, 'Baby': 2}[0m
+2024-10-13 14:57:47,129 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 14:57:47,129 - pages.base_page - [1m[92mINFO[0m[0m - [1mSTARTING ENTERING FLIGHDATA[0m
+2024-10-13 14:57:47,129 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 14:57:47,145 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('id', 'flight_origin1')[0m
+2024-10-13 14:57:47,345 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('id', 'flight_origin1')[0m
+2024-10-13 14:57:47,345 - pages.base_page - [1m[92mINFO[0m[0m - [1mMadrid (MAD)[0m
+2024-10-13 14:57:47,355 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_origin1')[0m
+2024-10-13 14:57:47,418 - pages.base_page - [1m[92mINFO[0m[0m - [1mText cleared for: ('id', 'flight_origin1')[0m
+2024-10-13 14:57:47,485 - pages.base_page - [1m[92mINFO[0m[0m - [1mText: Madrid (MAD) typed into element ('id', 'flight_origin1')[0m
+2024-10-13 14:57:47,493 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_origin1')[0m
+2024-10-13 14:57:47,496 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved value: Madrid (MAD) for ('id', 'flight_origin1')[0m
+2024-10-13 14:57:47,510 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('xpath', "//label[contains(.,'Destino')]")[0m
+2024-10-13 14:57:47,578 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('xpath', "//label[contains(.,'Destino')]")[0m
+2024-10-13 14:57:47,591 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_destiny1')[0m
+2024-10-13 14:57:47,618 - pages.base_page - [1m[92mINFO[0m[0m - [1mText cleared for: ('id', 'flight_destiny1')[0m
+2024-10-13 14:57:47,661 - pages.base_page - [1m[92mINFO[0m[0m - [1mText: Barcelona (BCN) typed into element ('id', 'flight_destiny1')[0m
+2024-10-13 14:57:47,679 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('xpath', "//label[contains(.,'Fecha ida')]")[0m
+2024-10-13 14:57:47,756 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('xpath', "//label[contains(.,'Fecha ida')]")[0m
+2024-10-13 14:57:47,823 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_round_date1')[0m
+2024-10-13 14:57:47,847 - pages.base_page - [1m[92mINFO[0m[0m - [1mText cleared for: ('id', 'flight_round_date1')[0m
+2024-10-13 14:57:48,002 - pages.base_page - [1m[92mINFO[0m[0m - [1mText: 25/10/2024 typed into element ('id', 'flight_round_date1')[0m
+2024-10-13 14:57:48,029 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('xpath', "//label[contains(.,'Fecha vuelta')]")[0m
+2024-10-13 14:57:48,145 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('xpath', "//label[contains(.,'Fecha vuelta')]")[0m
+2024-10-13 14:57:48,199 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_return_date1')[0m
+2024-10-13 14:57:48,220 - pages.base_page - [1m[92mINFO[0m[0m - [1mText cleared for: ('id', 'flight_return_date1')[0m
+2024-10-13 14:57:48,293 - pages.base_page - [1m[92mINFO[0m[0m - [1mText: 26/10/2024 typed into element ('id', 'flight_return_date1')[0m
+2024-10-13 14:57:48,310 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('id', 'flight_passengers1')[0m
+2024-10-13 14:57:48,394 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('id', 'flight_passengers1')[0m
+2024-10-13 14:57:48,394 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to clear passenger count[0m
+2024-10-13 14:57:48,407 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'adult1')[0m
+2024-10-13 14:57:48,420 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 1 for ('id', 'adult1')[0m
+2024-10-13 14:57:48,943 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'infants1')[0m
+2024-10-13 14:57:48,947 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 0 for ('id', 'infants1')[0m
+2024-10-13 14:57:48,957 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('xpath', "//span[@data-people-type='babies']")[0m
+2024-10-13 14:57:48,962 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 0 for ('xpath', "//span[@data-people-type='babies']")[0m
+2024-10-13 14:57:48,970 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('css selector', '.ibe-people-counter__list-item:nth-child(2) .ibe-people-counter__buttons-more')[0m
+2024-10-13 14:57:48,970 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to click 2 times on: ('css selector', '.ibe-people-counter__list-item:nth-child(2) .ibe-people-counter__buttons-more')[0m
+2024-10-13 14:57:49,061 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('xpath', "//*[@id='people-counter-1']/ul/li[5]/div[2]/button[2]")[0m
+2024-10-13 14:57:49,061 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to click 2 times on: ('xpath', "//*[@id='people-counter-1']/ul/li[5]/div[2]/button[2]")[0m
+2024-10-13 14:57:49,145 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('xpath', "//*[@id='people-counter-1']/ul/li[6]/div[2]/button[2]")[0m
+2024-10-13 14:57:49,145 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to click 1 times on: ('xpath', "//*[@id='people-counter-1']/ul/li[6]/div[2]/button[2]")[0m
+2024-10-13 14:57:49,185 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 14:57:49,186 - pages.base_page - [1m[92mINFO[0m[0m - [1mENDING ENTERING FLIGHDATA[0m
+2024-10-13 14:57:49,186 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 14:57:49,193 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'adult1')[0m
+2024-10-13 14:57:49,198 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 3 for ('id', 'adult1')[0m
+2024-10-13 14:57:49,205 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'infants1')[0m
+2024-10-13 14:57:49,209 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 2 for ('id', 'infants1')[0m
+2024-10-13 14:57:49,219 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('xpath', "//span[@data-people-type='babies']")[0m
+2024-10-13 14:57:49,222 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 1 for ('xpath', "//span[@data-people-type='babies']")[0m
+2024-10-13 14:57:49,575 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 14:57:49,575 - pages.base_page - [1m[92mINFO[0m[0m - [1mtest_search_20241013-145749.png SCREENSHOT SAVED[0m
+2024-10-13 14:57:49,575 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 14:57:49,575 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 14:57:49,575 - pages.base_page - [1m[92mINFO[0m[0m - [1mSTARTING ENTERING FLIGHDATA[0m
+2024-10-13 14:57:49,575 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 14:57:49,588 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('id', 'flight_origin1')[0m
+2024-10-13 14:57:49,625 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('id', 'flight_origin1')[0m
+2024-10-13 14:57:49,625 - pages.base_page - [1m[92mINFO[0m[0m - [1mBarcelona (BCN)[0m
+2024-10-13 14:57:49,634 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_origin1')[0m
+2024-10-13 14:57:49,670 - pages.base_page - [1m[92mINFO[0m[0m - [1mText cleared for: ('id', 'flight_origin1')[0m
+2024-10-13 14:57:49,726 - pages.base_page - [1m[92mINFO[0m[0m - [1mText: Barcelona (BCN) typed into element ('id', 'flight_origin1')[0m
+2024-10-13 14:57:49,736 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_origin1')[0m
+2024-10-13 14:57:49,739 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved value: Barcelona (BCN) for ('id', 'flight_origin1')[0m
+2024-10-13 14:57:49,750 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('xpath', "//label[contains(.,'Destino')]")[0m
+2024-10-13 14:57:49,834 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('xpath', "//label[contains(.,'Destino')]")[0m
+2024-10-13 14:57:49,856 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_destiny1')[0m
+2024-10-13 14:57:49,896 - pages.base_page - [1m[92mINFO[0m[0m - [1mText cleared for: ('id', 'flight_destiny1')[0m
+2024-10-13 14:57:49,965 - pages.base_page - [1m[92mINFO[0m[0m - [1mText: Madrid (MAD) typed into element ('id', 'flight_destiny1')[0m
+2024-10-13 14:57:49,980 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('xpath', "//label[contains(.,'Fecha ida')]")[0m
+2024-10-13 14:57:50,052 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('xpath', "//label[contains(.,'Fecha ida')]")[0m
+2024-10-13 14:57:50,064 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_round_date1')[0m
+2024-10-13 14:57:50,087 - pages.base_page - [1m[92mINFO[0m[0m - [1mText cleared for: ('id', 'flight_round_date1')[0m
+2024-10-13 14:57:50,198 - pages.base_page - [1m[92mINFO[0m[0m - [1mText: 01/11/2024 typed into element ('id', 'flight_round_date1')[0m
+2024-10-13 14:57:50,213 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('xpath', "//label[contains(.,'Fecha vuelta')]")[0m
+2024-10-13 14:57:50,293 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('xpath', "//label[contains(.,'Fecha vuelta')]")[0m
+2024-10-13 14:57:50,302 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'flight_return_date1')[0m
+2024-10-13 14:57:50,329 - pages.base_page - [1m[92mINFO[0m[0m - [1mText cleared for: ('id', 'flight_return_date1')[0m
+2024-10-13 14:57:50,419 - pages.base_page - [1m[92mINFO[0m[0m - [1mText: 02/11/2024 typed into element ('id', 'flight_return_date1')[0m
+2024-10-13 14:57:50,435 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('id', 'flight_passengers1')[0m
+2024-10-13 14:57:50,481 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('id', 'flight_passengers1')[0m
+2024-10-13 14:57:50,481 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to clear passenger count[0m
+2024-10-13 14:57:51,002 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'adult1')[0m
+2024-10-13 14:57:51,006 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 3 for ('id', 'adult1')[0m
+2024-10-13 14:57:51,014 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'infants1')[0m
+2024-10-13 14:57:51,019 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 2 for ('id', 'infants1')[0m
+2024-10-13 14:57:51,027 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('xpath', "//span[@data-people-type='babies']")[0m
+2024-10-13 14:57:51,032 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 1 for ('xpath', "//span[@data-people-type='babies']")[0m
+2024-10-13 14:57:51,032 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to click 2 times on: ('xpath', "//div[@id='people-counter-1']/ul/li[2]/div[2]/button")[0m
+2024-10-13 14:57:51,045 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('xpath', "//div[@id='people-counter-1']/ul/li[2]/div[2]/button")[0m
+2024-10-13 14:57:51,085 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('xpath', "//div[@id='people-counter-1']/ul/li[2]/div[2]/button")[0m
+2024-10-13 14:57:51,085 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to click 2 times on: ('xpath', "//div[@id='people-counter-1']/ul/li[2]/div[2]/button")[0m
+2024-10-13 14:57:51,098 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('xpath', "//div[@id='people-counter-1']/ul/li[2]/div[2]/button")[0m
+2024-10-13 14:57:51,130 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('xpath', "//div[@id='people-counter-1']/ul/li[2]/div[2]/button")[0m
+2024-10-13 14:57:51,130 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to click 1 times on: ('xpath', "//li[contains(@class, 'fc-people-counter-children')]//button[@data-people-counter-button='less']")[0m
+2024-10-13 14:57:51,144 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('xpath', "//li[contains(@class, 'fc-people-counter-children')]//button[@data-people-counter-button='less']")[0m
+2024-10-13 14:57:51,177 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('xpath', "//li[contains(@class, 'fc-people-counter-children')]//button[@data-people-counter-button='less']")[0m
+2024-10-13 14:57:51,177 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to click 1 times on: ('xpath', "//li[contains(@class, 'fc-people-counter-children')]//button[@data-people-counter-button='less']")[0m
+2024-10-13 14:57:51,189 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('xpath', "//li[contains(@class, 'fc-people-counter-children')]//button[@data-people-counter-button='less']")[0m
+2024-10-13 14:57:51,226 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('xpath', "//li[contains(@class, 'fc-people-counter-children')]//button[@data-people-counter-button='less']")[0m
+2024-10-13 14:57:51,226 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to click 0 times on: ('xpath', "//li[contains(@class, 'fc-people-counter-babies')]//button[@data-people-counter-button='less']")[0m
+2024-10-13 14:57:51,242 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement clickable: ('xpath', "//li[contains(@class, 'fc-people-counter-babies')]//button[@data-people-counter-button='less']")[0m
+2024-10-13 14:57:51,285 - pages.base_page - [1m[92mINFO[0m[0m - [1mClicked on: ('xpath', "//li[contains(@class, 'fc-people-counter-babies')]//button[@data-people-counter-button='less']")[0m
+2024-10-13 14:57:51,293 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('css selector', '.ibe-people-counter__list-item:nth-child(2) .ibe-people-counter__buttons-more')[0m
+2024-10-13 14:57:51,293 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to click 3 times on: ('css selector', '.ibe-people-counter__list-item:nth-child(2) .ibe-people-counter__buttons-more')[0m
+2024-10-13 14:57:51,435 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('xpath', "//*[@id='people-counter-1']/ul/li[5]/div[2]/button[2]")[0m
+2024-10-13 14:57:51,435 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to click 1 times on: ('xpath', "//*[@id='people-counter-1']/ul/li[5]/div[2]/button[2]")[0m
+2024-10-13 14:57:51,483 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('xpath', "//*[@id='people-counter-1']/ul/li[6]/div[2]/button[2]")[0m
+2024-10-13 14:57:51,483 - pages.base_page - [1m[92mINFO[0m[0m - [1mStarting to click 2 times on: ('xpath', "//*[@id='people-counter-1']/ul/li[6]/div[2]/button[2]")[0m
+2024-10-13 14:57:51,566 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 14:57:51,566 - pages.base_page - [1m[92mINFO[0m[0m - [1mENDING ENTERING FLIGHDATA[0m
+2024-10-13 14:57:51,568 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 14:57:51,574 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'adult1')[0m
+2024-10-13 14:57:51,579 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 4 for ('id', 'adult1')[0m
+2024-10-13 14:57:51,588 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('id', 'infants1')[0m
+2024-10-13 14:57:51,592 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 1 for ('id', 'infants1')[0m
+2024-10-13 14:57:51,600 - pages.base_page - [1m[92mINFO[0m[0m - [1mElement found: ('xpath', "//span[@data-people-type='babies']")[0m
+2024-10-13 14:57:51,605 - pages.base_page - [1m[92mINFO[0m[0m - [1mRetrieved text: 2 for ('xpath', "//span[@data-people-type='babies']")[0m
+2024-10-13 14:57:51,938 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m
+2024-10-13 14:57:51,938 - pages.base_page - [1m[92mINFO[0m[0m - [1mtest_search_20241013-145751.png SCREENSHOT SAVED[0m
+2024-10-13 14:57:51,938 - pages.base_page - [1m[92mINFO[0m[0m - [1m====================================================================================================[0m

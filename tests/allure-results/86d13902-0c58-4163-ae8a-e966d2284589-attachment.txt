@@ -1,0 +1,5 @@
+2024-10-13 14:57:41,711 - WDM - [1m[92mINFO[0m[0m - [1m====== WebDriver manager ======[0m
+2024-10-13 14:57:42,243 - WDM - [1m[92mINFO[0m[0m - [1mGet LATEST chromedriver version for google-chrome[0m
+2024-10-13 14:57:42,284 - WDM - [1m[92mINFO[0m[0m - [1mGet LATEST chromedriver version for google-chrome[0m
+2024-10-13 14:57:42,321 - WDM - [1m[92mINFO[0m[0m - [1mDriver [C:\Users\Ivan\.wdm\drivers\chromedriver\win64\129.0.6668.100\chromedriver-win32/chromedriver.exe] found in cache[0m
+2024-10-13 14:57:46,192 - pages.base_page - [1m[92mINFO[0m[0m - [1mURL is: https://www.iberia.com/[0m

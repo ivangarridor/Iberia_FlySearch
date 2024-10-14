@@ -1,0 +1,3 @@
+[32mINFO    [0m pages.base_page:base_page.py:44 Element found: ('id', 'onetrust-accept-btn-handler')
+[32mINFO    [0m pages.base_page:base_page.py:77 Element clickable: ('id', 'onetrust-accept-btn-handler')
+[32mINFO    [0m pages.base_page:base_page.py:79 Clicked on: ('id', 'onetrust-accept-btn-handler')
